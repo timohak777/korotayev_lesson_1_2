@@ -3,4 +3,4 @@ wallet={
     "Amount of money": 45678
 }
 N=wallet["Amount of money"]/37
-print(f"На вашому рахунку:{N}доларів. ")
+print(f"Mr {wallet["Owner's name"]}, на вашому рахунку:{N}доларів. ")
